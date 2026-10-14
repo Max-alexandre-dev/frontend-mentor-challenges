@@ -60,7 +60,7 @@ Neste desafio trabalhei com estruturação HTML, classes utilitárias do Tailwin
 A proposta da série é continuar evoluindo e compartilhando o processo de construção de cada interface.
 
 ## Links
-
+- [Visualizar projeto online](https://01-social-links-profile.vercel.app/)
 - [Desafio original — Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 - [Repositório de desafios](https://github.com/Max-alexandre-dev/frontend-mentor-challenges)
 - [Instagram — @eu.maxalexandre](https://www.instagram.com/eu.maxalexandre/)

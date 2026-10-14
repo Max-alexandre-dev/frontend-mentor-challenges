@@ -7,9 +7,9 @@ transformando designs em interfaces funcionais.
 
 ## 🚀 Do Design ao Código
 
-| # | Desafio | Tecnologias |
+| # | Projeto | Tecnologias | Demo |
 |---|---|---|
-| 01 | [Social Links Profile](./01-social-links-profile) | HTML + Tailwind CSS |
+| 01 | [Social Links Profile](./01-social-links-profile) | HTML + Tailwind CSS | [Ver demonstração](https://01-social-links-profile.vercel.app/) |
 
 ## 🎯 Objetivos
 
