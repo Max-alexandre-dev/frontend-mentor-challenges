@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  /* Cores do desafio */
+  --color-primary: hsl(75, 94%, 57%);
+  --color-dark: hsl(0, 0%, 8%);
+  --color-card: hsl(0, 0%, 12%);
+  --color-button: hsl(0, 0%, 20%);
+
+  /* Fonte */
+  --font-inter: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-inter);
+    background-color: var(--color-dark);
+    color: white;
+  }
+}
